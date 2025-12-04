@@ -8,5 +8,5 @@ function setup() {
 function draw() {
     // background(0,40);
     textSize(90);
-    text('🏗️', mouseX,mouseY);
+    text('🧊', mouseX,mouseY);
 }
