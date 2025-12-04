@@ -50,7 +50,7 @@ canvas{
 
 @media (max-width: 640px) {
     .title{
-        font-size: 5em;
+        font-size: 4.8em;
         line-height: 60px;
     }
 }

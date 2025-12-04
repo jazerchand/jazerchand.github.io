@@ -7,6 +7,6 @@ function setup() {
 
 function draw() {
     // background(0,40);
-    textSize(96);
-    text('❄️', mouseX,mouseY);
+    textSize(90);
+    text('🏗️', mouseX,mouseY);
 }
